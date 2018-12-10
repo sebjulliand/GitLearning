@@ -1,3 +1,5 @@
 <pom>
-	<test></test>
+	<test id="12345">Amazing</test>
+	<command name="DSPLIBL"/>
+	<command name="DSPUSRPRF"/>
 </pom>
