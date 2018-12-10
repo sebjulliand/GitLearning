@@ -1,2 +1,1 @@
-Ceci n'est pas une erreur.
-Ceci est voulu.
+Ceci n'est pas une erreur. C'est une feature!
