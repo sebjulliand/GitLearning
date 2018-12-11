@@ -1,2 +1,2 @@
 # GitLearning
-Git Training
+Git Training; such a wonderful application!
